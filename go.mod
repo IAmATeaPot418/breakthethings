@@ -4,7 +4,7 @@ go 1.18
 
 require (
 	github.com/Masterminds/sprig/v3 v3.2.2
-	github.com/fatih/color v1.13.0
+	github.com/fatih/color v1.18.0
 	github.com/ghodss/yaml v1.0.0
 	github.com/golangci/golangci-lint v1.46.2
 	github.com/mitchellh/mapstructure v1.5.0
@@ -139,8 +139,8 @@ require (
 	github.com/mailru/easyjson v0.7.6 // indirect
 	github.com/maratori/testpackage v1.0.1 // indirect
 	github.com/matoous/godox v0.0.0-20210227103229-6504466cf951 // indirect
-	github.com/mattn/go-colorable v0.1.12 // indirect
-	github.com/mattn/go-isatty v0.0.14 // indirect
+	github.com/mattn/go-colorable v0.1.13 // indirect
+	github.com/mattn/go-isatty v0.0.20 // indirect
 	github.com/mattn/go-runewidth v0.0.9 // indirect
 	github.com/matttproud/golang_protobuf_extensions v1.0.2-0.20181231171920-c182affec369 // indirect
 	github.com/mbilski/exhaustivestruct v1.2.0 // indirect
@@ -218,7 +218,7 @@ require (
 	golang.org/x/net v0.0.0-20220520000938-2e3eb7b945c2 // indirect
 	golang.org/x/oauth2 v0.0.0-20220411215720-9780585627b5 // indirect
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c // indirect
-	golang.org/x/sys v0.0.0-20220520151302-bc2c85ada10a // indirect
+	golang.org/x/sys v0.25.0 // indirect
 	golang.org/x/term v0.0.0-20210927222741-03fcf44c2211 // indirect
 	golang.org/x/text v0.3.7 // indirect
 	golang.org/x/time v0.0.0-20220210224613-90d013bbcef8 // indirect
